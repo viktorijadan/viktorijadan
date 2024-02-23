@@ -1,8 +1,4 @@
-<!---
-viktorijadan/viktorijadan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Victoria!</h1>
+<h2 align="center">Hi 👋, I'm Victoria!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaaa" /> </p>
 
