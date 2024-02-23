@@ -1,4 +1,21 @@
-<h3 align="center" style="color:purple;">Hi 👋, I'm Victoria!</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Victoria's Greeting</title>
+    <style>
+        h2 {
+            color: purple;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>Hi 👋, I'm Victoria!</h2>
+</body>
+</html>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaaa" /> </p>
