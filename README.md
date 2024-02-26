@@ -19,7 +19,11 @@
 
 ### Connect with me!
 
-[![Linkedin Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viktorija-d-132a6410b) [![Tableau Logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/viktorija.dan/vizzes) [![Gmail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktorijadaniene@gmail.com)
+[![Linkedin Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viktorija-d-132a6410b) [![Gmail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktorijadaniene@gmail.com)
+
+### My dashboard's portfolio:
+
+[![Tableau Logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/viktorija.dan/vizzes)
 
 ### Languages and Tools:
 
