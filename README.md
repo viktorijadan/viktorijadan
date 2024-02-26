@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Victoria!</h1> 
+<div align="center">
+  <h1 style="font-size: 2em; font-weight: bold;">Hello There 👋, I'm Victoria!!</h1>
+</div>
+
+<img align="right" width="400" height="350" src="https://cdn.dribbble.com/users/2255934/screenshots/6222338/uni.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaaa" /> </p>
 
