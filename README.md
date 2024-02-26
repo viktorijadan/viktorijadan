@@ -6,16 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaaa" /> </p>
 
-- 🌱 I’m currently learning **aaaaa**
-
-- 👨‍💻 All of my projects are available at [aaaa](aaaa)
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in analytics 📊, board games 🎲, computer games 🎮, and cars 🏎️💨.
+- 🎓 During the last year, I improved my analytical skills 📈 while studying at Turing College 👩🏻‍🎓.
+- 🎮 The most recent beloved game was Hogwarts Legacy 🧙🏼‍♂️.
+- 🎲 The most beloved board game is The Settlers of Catan 🌾.
+- 💬 I'm speaking in Lithuanian 🇱🇹, English 🇺🇸, and Russian 🇷🇺 languages.
 
 ### Connect with me!
 
